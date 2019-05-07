@@ -1,0 +1,14 @@
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\bin\Debug\netcoreapp2.1\Customer_New.deps.json
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\bin\Debug\netcoreapp2.1\Customer_New.runtimeconfig.json
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\bin\Debug\netcoreapp2.1\Customer_New.runtimeconfig.dev.json
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\bin\Debug\netcoreapp2.1\Customer_New.dll
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\bin\Debug\netcoreapp2.1\Customer_New.pdb
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\obj\Debug\netcoreapp2.1\Customer_New.csprojAssemblyReference.cache
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\obj\Debug\netcoreapp2.1\Customer_New.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\obj\Debug\netcoreapp2.1\Customer_New.RazorAssemblyInfo.cache
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\obj\Debug\netcoreapp2.1\Customer_New.RazorAssemblyInfo.cs
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\obj\Debug\netcoreapp2.1\Customer_New.AssemblyInfoInputs.cache
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\obj\Debug\netcoreapp2.1\Customer_New.AssemblyInfo.cs
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\obj\Debug\netcoreapp2.1\Customer_New.RazorTargetAssemblyInfo.cache
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\obj\Debug\netcoreapp2.1\Customer_New.dll
+C:\Users\Rohit\source\repos\Customer_New\Customer_New\obj\Debug\netcoreapp2.1\Customer_New.pdb
